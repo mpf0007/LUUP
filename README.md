@@ -9,7 +9,7 @@ Description
 Instructions
 ------------
 
-1. Install [Rust](http://www.rust-lang.org/install.html)
+1. Install [Rust Nightly](http://www.rust-lang.org/install.html)
 
 2. Clone the [LUUP](https://github.com/mpf0007/LUUP) source code .  
 
